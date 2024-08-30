@@ -6,13 +6,13 @@ various metrics and statistics. The goal is to extract this data and process it 
 insights and information that can be visualized in a user-friendly manner.
 
 ## Technologies used
-  Github Cloning
-  Python
-  Pandas
-  MySQL
-  mysql-connector-python
-  Streamlit
-  Plotly
+    Github Cloning
+    Python
+    Pandas
+    MySQL
+    mysql-connector-python
+    Streamlit
+    Plotly
 ## Table of content
     Data extraction
     Data transformation
